@@ -8,7 +8,7 @@ Build a responsive and interactive Employee Directory web interface using **HTML
 ## 🚀 Live Demo (Deployment)
 🌐 [Click here to view the deployed project](https://cozy-shortbread-ca55c6.netlify.app/)
 
-_Replace this link with your actual deployed URL (e.g., from Netlify, GitHub Pages, or Vercel)._
+
 
 ---
 
